@@ -209,13 +209,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - 📐 Platonic solids for the beautiful geometry
 
 </div>
-
----
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/KleaSCMCoded?style=social)](https://github.com/KleaSCM/ColorCoded)
-[![GitHub forks](https://img.shields.io/github/forks/KleaSCMCoded?style=social)](https://github.com/KleaSCM/ColorCoded)
-[![GitHub watchers](https://img.shields.io/github/watchers/KleaSCMCoded?style=social)](https://github.com/KleaSCM/ColorCoded)
-
-</div> 
