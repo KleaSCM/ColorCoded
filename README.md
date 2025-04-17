@@ -1,10 +1,8 @@
 # ColorCoded Dodecahedron
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=800&lines=A+3D+wireframe+dodecahedron+visualization+built+with+Rust+and+Macroquad.;This+project+demonstrates+3D+geometry%2C+color+theory%2C+and+real-time+graphics+programming." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1500&color=F75C7E&center=true&vCenter=true&width=1000&lines=A+3D+wireframe+dodecahedron+visualization+built+with+Rust+and+Macroquad.;This+project+demonstrates+3D+geometry%2C+color+theory%2C+and+real-time+graphics+programming." alt="Typing SVG" />
 </p>
-
-<div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Macroquad](https://img.shields.io/badge/Macroquad-FF6B6B?style=for-the-badge&logo=opengl&logoColor=white)
