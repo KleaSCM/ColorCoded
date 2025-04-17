@@ -32,6 +32,25 @@ The project serves as both a functional visualization and an educational resourc
 
 </div>
 
+## 💡 Learn From This Project
+
+<div style="background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
+
+- 🏗️ **3D Geometry**: Learn how to build 3D geometry from scratch in Rust
+- 🎨 **Color Theory**: Understand how HSV color models work in practice
+- 🔄 **3D Transformations**: Master manual rotation, projection, and rendering of 3D data
+- 🐛 **Rendering Challenges**: Discover where rendering artifacts come from — and how to fight them
+- 📊 **Performance**: Explore different rendering approaches and their trade-offs
+- 🧩 **Problem Solving**: See how to approach and solve common 3D graphics challenges
+
+Each concept is thoroughly documented in the code with:
+- Detailed comments explaining the theory
+- Multiple implementation approaches
+- Common pitfalls and solutions
+- Performance considerations
+
+</div>
+
 ## 🎨 Features
 
 <div style="background-color: #1E1E1E; padding: 20px; border-radius: 10px;">
